@@ -59,6 +59,7 @@
     ]
   },
   "devDependencies": {
+    "@storybook/addon-a11y": "^6.5.15",
     "@storybook/addon-actions": "^6.5.15",
     "@storybook/addon-essentials": "^6.5.15",
     "@storybook/addon-interactions": "^6.5.15",
@@ -73,6 +74,7 @@
     "babel-plugin-named-exports-order": "^0.0.2",
     "msw": "^0.42.0",
     "msw-storybook-addon": "^1.6.3",
+    "prettier": "2.8.1",
     "prop-types": "^15.8.1",
     "webpack": "^5.73.0"
   }
