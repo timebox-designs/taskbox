@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">
+<h1>
   Chromatic's Intro to Storybook React template
 </h1>
 
